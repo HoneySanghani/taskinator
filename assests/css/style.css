@@ -37,7 +37,7 @@
   li {
     font-size: 1.6rem;
   }
-  
+/*common structure for form line no 16*/ 
   form {
     display: flex;
     align-items: flex-end;
@@ -58,7 +58,7 @@
     margin: 10px 6px 10px 0;
     flex: 1;
   }
-  
+/*footer for the page line no 36*/ 
   footer {
     width: 100%;
     background: var(--secondary);

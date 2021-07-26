@@ -4,7 +4,7 @@
 To make a Kanban Board to track tasks weather they are in progress or completed.
 
 ## Functions
-We can add task ,delete all tasks, delete single task, move task from todo, In progress and completed and track it's deadline to.
+We can add task ,delete task and we can move them to different section using drop down list.
 
 ## Build-with
 HTML
